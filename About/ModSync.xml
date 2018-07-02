@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>0be41155-0ad3-4762-8a1f-f687f41f8aa9</ID>
+  <ModName>Natural Surgery (More)</ModName>
+  <Version>1.0.0.1</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>JemEncode</Owner>
+    <Project>Rimworld.Mod.NaturalSurgery</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
