@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BodyPartNaturalBase">
+    <defName>Brain</defName>
+    <label>brain</label>
+    <description>Central control of bodily &amp; motor functions.</description>
+    <statBases>
+      <MarketValue>500</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BodyPartNaturalBase">
+    <defName>Nose</defName>
+    <label>nose</label>
+    <description>Essential part of the smelling system.</description>
+    <statBases>
+      <MarketValue>250</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="BodyPartNaturalBase">
+    <defName>Ear</defName>
+    <label>ear</label>
+    <description>Essential part of the hearing system.</description>
+    <statBases>
+      <MarketValue>250</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+  </ThingDef>
+</Defs>
