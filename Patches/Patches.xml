@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>*/BodyPartDef[defName = "Brain"]</xpath>
+        <value>
+          <spawnThingOnRemoved>Brain</spawnThingOnRemoved>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>*/BodyPartDef[defName = "Ear"]</xpath>
+        <value>
+          <spawnThingOnRemoved>Ear</spawnThingOnRemoved>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>*/BodyPartDef[defName = "Nose"]</xpath>
+        <value>
+          <spawnThingOnRemoved>Nose</spawnThingOnRemoved>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
