@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Brain.label>大脑</Brain.label>
+  <Brain.description>中枢神经支配与控制全身肢体。</Brain.description>
+  <Nose.label>鼻子</Nose.label>
+  <Nose.description>嗅觉器官。</Nose.description>
+  <Ear.label>耳朵</Ear.label>
+  <Ear.description>听觉器官。</Ear.description>
+</LanguageData>
