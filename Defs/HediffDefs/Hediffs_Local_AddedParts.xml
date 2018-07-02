@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef ParentName="AddedBodyPartBase">
+    <defName>Ear</defName>
+    <label>Sewn ear</label>
+    <spawnThingOnRemoved>Ear</spawnThingOnRemoved>
+    <addedPartProps>
+      <partEfficiency>1.0</partEfficiency>
+    </addedPartProps>
+    <stages>
+      <li>
+        <capMods>
+          <li>
+            <capacity>Hearing</capacity>
+            <offset>0.0</offset>
+          </li>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>
