@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RepairNaturalTorso.label>復原全體</RepairNaturalTorso.label>
+  <RepairNaturalTorso.description>復原整個身體。</RepairNaturalTorso.description>
+  <RepairNaturalTorso.jobstring>正在復原全體。</RepairNaturalTorso.jobstring>
+  <InstallNaturalBrain.label>植入大腦</InstallNaturalBrain.label>
+  <InstallNaturalBrain.description>將大腦植入身體。</InstallNaturalBrain.description>
+  <InstallNaturalBrain.jobstring>正在植入大腦。</InstallNaturalBrain.jobstring>
+  <InstallNaturalNose.label>安裝鼻子</InstallNaturalNose.label>
+  <InstallNaturalNose.description>安裝鼻子。</InstallNaturalNose.description>
+  <InstallNaturalNose.jobstring>正在安裝鼻子。</InstallNaturalNose.jobstring>
+  <InstallNaturalEar.label>安裝耳朵</InstallNaturalEar.label>
+  <InstallNaturalEar.description>安裝耳朵。</InstallNaturalEar.description>
+  <InstallNaturalEar.jobstring>正在安裝耳朵。</InstallNaturalEar.jobstring>
+  <RepairNaturalBody.label>復原全體</RepairNaturalBody.label>
+  <RepairNaturalBody.description>復原整個身體。</RepairNaturalBody.description>
+  <RepairNaturalBody.jobstring>正在復原全體。</RepairNaturalBody.jobstring>
+  <RepairNaturalShell.label>復原全體</RepairNaturalShell.label>
+  <RepairNaturalShell.description>復原整個身體。</RepairNaturalShell.description>
+  <RepairNaturalShell.jobstring>正在復原全體。</RepairNaturalShell.jobstring>
+  <RepairNaturalTurtleShell.label>復原全體</RepairNaturalTurtleShell.label>
+  <RepairNaturalTurtleShell.description>復原整個身體。</RepairNaturalTurtleShell.description>
+  <RepairNaturalTurtleShell.jobstring>正在復原全體。</RepairNaturalTurtleShell.jobstring>
+  <RepairNaturalSnakeBody.label>復原全體</RepairNaturalSnakeBody.label>
+  <RepairNaturalSnakeBody.description>復原整個身體。</RepairNaturalSnakeBody.description>
+  <RepairNaturalSnakeBody.jobstring>正在復原全體。</RepairNaturalSnakeBody.jobstring>
+</LanguageData>
