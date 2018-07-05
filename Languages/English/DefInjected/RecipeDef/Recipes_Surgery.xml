@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RepairNaturalTorso.label>rejuvenate entire body</RepairNaturalTorso.label>
+  <RepairNaturalTorso.description>Rejuvenate entire body</RepairNaturalTorso.description>
+  <RepairNaturalTorso.jobstring>Rejuvenating entire body.</RepairNaturalTorso.jobstring>
+  <InstallNaturalBrain.label>install brain</InstallNaturalBrain.label>
+  <InstallNaturalBrain.description>Installs brain.</InstallNaturalBrain.description>
+  <InstallNaturalBrain.jobstring>Installing brain.</InstallNaturalBrain.jobstring>
+  <InstallNaturalNose.label>install nose</InstallNaturalNose.label>
+  <InstallNaturalNose.description>Installs nose.</InstallNaturalNose.description>
+  <InstallNaturalNose.jobstring>Installing nose.</InstallNaturalNose.jobstring>
+  <InstallNaturalEar.label>install ear</InstallNaturalEar.label>
+  <InstallNaturalEar.description>Installs ear.</InstallNaturalEar.description>
+  <InstallNaturalEar.jobstring>Installing ear.</InstallNaturalEar.jobstring>
+  <RepairNaturalBody.label>rejuvenate entire body</RepairNaturalBody.label>
+  <RepairNaturalBody.description>Rejuvenate entire body</RepairNaturalBody.description>
+  <RepairNaturalBody.jobstring>Rejuvenating entire body.</RepairNaturalBody.jobstring>
+  <RepairNaturalShell.label>rejuvenate entire body</RepairNaturalShell.label>
+  <RepairNaturalShell.description>Rejuvenate entire body</RepairNaturalShell.description>
+  <RepairNaturalShell.jobstring>Rejuvenating entire body.</RepairNaturalShell.jobstring>
+  <RepairNaturalTurtleShell.label>rejuvenate entire body</RepairNaturalTurtleShell.label>
+  <RepairNaturalTurtleShell.description>Rejuvenate entire body</RepairNaturalTurtleShell.description>
+  <RepairNaturalTurtleShell.jobstring>Rejuvenating entire body.</RepairNaturalTurtleShell.jobstring>
+  <RepairNaturalSnakeBody.label>rejuvenate entire body</RepairNaturalSnakeBody.label>
+  <RepairNaturalSnakeBody.description>Rejuvenate entire body</RepairNaturalSnakeBody.description>
+  <RepairNaturalSnakeBody.jobstring>Rejuvenating entire body.</RepairNaturalSnakeBody.jobstring>
+</LanguageData>
