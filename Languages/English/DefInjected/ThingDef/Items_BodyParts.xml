@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Brain.label>brain</Brain.label>
+  <Brain.description>Central control of bodily &amp; motor functions.</Brain.description>
+  <Nose.label>nose</Nose.label>
+  <Nose.description>Essential part of the smelling system.</Nose.description>
+  <Ear.label>ear</Ear.label>
+  <Ear.description>Essential part of the hearing system.</Ear.description>
+</LanguageData>
